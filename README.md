@@ -37,24 +37,23 @@
 
 ---
 
-### 📬 Connect with me:
-
- ### 📬 Connect with me
+### 📬 Connect with me
 
 <p align="left">
   <a href="https://github.com/sarthakruge003" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-ruge-0b2641228" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/sarthak__003" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35" alt="Instagram" />
   </a>
   <a href="mailto:sarthakruge03@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" alt="Gmail" />
   </a>
 </p>
+
 
 ---
 
