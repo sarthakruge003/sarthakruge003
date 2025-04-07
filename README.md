@@ -32,6 +32,8 @@
 
 ### 📬 Connect with me
 
+ 
+
 <p align="left">
   <a href="https://github.com/sarthakruge003" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
@@ -39,13 +41,14 @@
   <a href="https://www.linkedin.com/in/sarthak-ruge-0b2641228" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
-  <a href="[(https://www.instagram.com/sarthak____003/?igsh=bzAyd2FjeDBjdXE1)]" target="_blank">
+  <a href="https://www.instagram.com/sarthak____003/?igsh=bzAyd2FjeDBjdXE1#" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="35" alt="Instagram" />
   </a>
   <a href="mailto:sarthakruge03@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" alt="Gmail" />
   </a>
 </p>
+
 
 
 ---
