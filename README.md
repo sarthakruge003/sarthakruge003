@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Prakash Ruge</h1>
 <h3 align="center">Passionate Full Stack Java Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -38,11 +38,7 @@
 
 ---
 
-### 📬 Connect with me:
-
-- Portfolio: [Kaladrushti](https://www.instagram.com/kaladrushti_designs)
-- Email: yourmail@gmail.com
-- Location: Pune, India
+ 
 
 ---
 
