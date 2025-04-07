@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Prakash Ruge</h1>
 <h3 align="center">Passionate Full Stack Java Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
 - 🔭 I’m currently working on **Java Full Stack Projects**
 - 🌱 I’m currently learning **React.js and revising Full Stack basics**
