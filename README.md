@@ -27,6 +27,19 @@
 </p>
 
 ---
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakruge003&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakruge003&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakruge003&theme=tokyonight" />
+</p>
+
 
  
 
