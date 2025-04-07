@@ -5,11 +5,10 @@
 
 - 🔭 I’m currently working on **Java Full Stack Projects**
 - 🌱 I’m currently learning **React.js and revising Full Stack basics**
-- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/YourUsername?tab=repositories)
-- 📝 I regularly write design content on **Kaladrushti**
-- 💬 Ask me about **HTML, CSS, JS, Node.js, MongoDB, Java, React**
-- 📫 How to reach me: **yourmail@gmail.com**
-- ⚡ Fun fact: I run a graphic design brand — *Kaladrushti*
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/sarthakruge003)
+ - 💬 Ask me about **HTML, CSS, JS, Node.js, MongoDB, Java, React**
+- 📫 How to reach me: **sarthakruge03@gmail.com**
+- ⚡ Fun fact: I'm a creative <b>UI/UX designer</b> and a <b>YouTuber with 950+ subscribers</b></li>
 
 ---
 
@@ -40,9 +39,22 @@
 
 ### 📬 Connect with me:
 
-- Portfolio: [Kaladrushti](https://www.instagram.com/kaladrushti_designs)
-- Email: yourmail@gmail.com
-- Location: Pune, India
+ ### 📬 Connect with me
+
+<p align="left">
+  <a href="https://github.com/sarthakruge003" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarthak-ruge-0b2641228" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sarthak__003" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sarthakruge03@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
