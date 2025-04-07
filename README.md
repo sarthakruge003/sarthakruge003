@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Java Full Stack Projects**
 - 🌱 I’m currently learning **React.js and revising Full Stack basics**
-- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/YourUsername?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/sarthakruge003)
 - 📝 I regularly write design content on **Kaladrushti**
 - 💬 Ask me about **HTML, CSS, JS, Node.js, MongoDB, Java, React**
-- 📫 How to reach me: **yourmail@gmail.com**
-- ⚡ Fun fact: I run a graphic design brand — *Kaladrushti*
+- 📫 How to reach me: **sarthakruge03@gmnail.com**
+- ⚡ I'm a creative UI/UX designer and a YouTuber with **950+ subscribers** – blending code, creativity, and content!
 
 ---
 
